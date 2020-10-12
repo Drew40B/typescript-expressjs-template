@@ -1,2 +1,0 @@
-{"/home/drew/git/github/drew/typescript-expressjs-template/src/api/example/controller.ts": {"path":"/home/drew/git/github/drew/typescript-expressjs-template/src/api/example/controller.ts","statementMap":{"0":{"start":{"line":3,"column":13},"end":{"line":5,"column":2}},"1":{"start":{"line":4,"column":4},"end":{"line":4,"column":46}}},"fnMap":{"0":{"name":"(anonymous_0)","decl":{"start":{"line":3,"column":19},"end":{"line":3,"column":20}},"loc":{"start":{"line":3,"column":51},"end":{"line":5,"column":1}}}},"branchMap":{},"s":{"0":1,"1":1},"f":{"0":1},"b":{}}
-}
