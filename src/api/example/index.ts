@@ -4,17 +4,17 @@ import { Router } from 'express';
 import { API } from '..';
 
 export default class ExampleApi implements API {
-  private router: Router;
+    private router: Router;
 
-  constructor(router: Router) {
-    this.router = router;
-  }
+    constructor(router: Router) {
+        this.router = router;
+    }
 
-  setupApi() {
-    this.router.get(
-      '/example',
-      exampleMW.canGet,
-      exampleCtrl.get
-    );
-  }
+    setupApi() {
+        this.router.get(
+            '/example',
+            exampleMW.canGet,
+            exampleCtrl.get
+        );
+    }
 }

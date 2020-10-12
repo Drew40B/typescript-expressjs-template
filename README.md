@@ -29,6 +29,8 @@ npm install
 ```
 npm run build
 npm start
+browse to http://localhost:3000/api/example
+
 ```
 
 - Run in development mode

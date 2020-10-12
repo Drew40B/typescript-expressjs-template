@@ -1,6 +1,6 @@
 import express from 'express';
 import bodyParser from 'body-parser';
-import {setupApis} from './api';
+import { setupApis } from './api';
 
 const app = express();
 
